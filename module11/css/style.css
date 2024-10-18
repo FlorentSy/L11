@@ -1,0 +1,41 @@
+body{
+    background-image: url("../images/pexels-photo-235986.jpeg");
+    background-size:auto;
+}
+
+
+h2{
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+    margin: 100px 150px 100px 80px;
+}
+
+p{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 50%;
+    border-width: 3px;
+    border-style:solid;
+    border-color: white;
+
+}
+
+h1{
+    color: #00d9ff;
+    border: 4px solid white;
+}
+
+h3{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 60px;
+    padding-bottom: 70px;
+
+    color: beige;
+}
+
+div{
+    background-color: powderblue;
+    height: 200px;
+    max-width: 50%;
+}
